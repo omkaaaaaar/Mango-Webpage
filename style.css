@@ -253,7 +253,6 @@
   font-weight: 900;
   margin: 15px 0;
   margin-left: 150%;
-  transition: all 0.6s ease;
 }
 .heroevent-text p{
   width: 100%;
@@ -263,7 +262,7 @@
   line-height: 32px;
   color: var(--text-color);
   margin-bottom: 40px;
-  margin-left: 155%;
+  margin-left: 135%;
 } 
 .flex1-container{
   float: right;
@@ -277,7 +276,7 @@
   height: 500px;
   background-color: rgb(223, 220, 139);
   padding: 10px;
-  margin-right: 90%;
+  margin-right: 110%;
 }
 
 
